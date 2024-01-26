@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ryan. I'm an undergraduate Computer Science student at the University of British Columbia. On my GitHub, you will find the projects I have worked on since I discovered my passion for computing in 2015. Here are some fun facts:
+My name is Ryan. I'm an undergraduate Computer Science student at the University of British Columbia. On my GitHub, you will find the projects I have worked on over the past 9 years while exploring my passion for computing. Here are some fun facts:
 
 - 🔭 I’m currently working on software engineering with a focus on cloud and backend infrastructure and full stack development
 - 🌱 I’m currently focusing on learning systems and computer architecture, with a focus on applying myself to software design principles
