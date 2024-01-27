@@ -19,6 +19,6 @@ My name is Ryan. I'm an undergraduate Computer Science student at the University
 
 - 🔭 I’m currently working on software engineering with a focus on cloud and backend infrastructure and full stack development
 - 🌱 I’m currently focusing on learning systems and computer architecture, with a focus on applying myself with software design principles
-- 🧑‍💻 I'm available and looking for internships starting for summer 2024  
+- 🧑‍💻 I'm available and looking for internships for summer 2024 (4 or 8 months)
 - 📫 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ryanarnouk/). I am looking forward to connecting!
 
