@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ryan. I'm an undergraduate Computer Science student at the University of British Columbia. On my GitHub, you will find the projects I have worked on over the past 9 years while exploring my passion for computing. Here are some fun facts:
+Hi, I'm Ryan! I'm an undergraduate Computer Science student at the University of British Columbia. 
 
-- 🔭 I’m currently exploring software engineering with a focus on cloud and backend infrastructure, full stack development, and programming languages.
-- 🌱 I’m diving deeper into systems, compilers, and computer architecture, while improving my software design principles.
-- 🧑‍💻 I previously interned at PayPal on the Payouts team and am excited to return as an intern this upcoming summer. 
-- 📫 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ryanarnouk/). I look forward to connecting!
+I like to write computer programs. My main interests lie in software engineering, where I have experience in backend development, cloud infrastructure, and full-stack engineering. Recently, I've been diving deeper into operating systems, compilers, programming languages, and runtimes. 
 
+Previously, I have interned at PayPal on the Payouts team (where I am returning for another internship this summer). Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ryanarnouk/)!
