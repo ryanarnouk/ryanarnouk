@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Ryan! I'm an undergraduate Computer Science student at the University of British Columbia. 
+I'm Ryan! I'm a 4th-year undergraduate Computer Science student at the University of British Columbia. 
 
 I like to write computer programs. My main interests lie in software engineering, where I have experience in backend development, cloud infrastructure, and full-stack engineering. Recently, I've been diving deeper into operating systems, compilers, programming languages, and runtimes. 
 
